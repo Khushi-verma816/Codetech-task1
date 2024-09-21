@@ -1,8 +1,13 @@
 Name - Khushi Verma
+
 Company - CODTECH IT SOLUTIONS
+
 ID - CT12DS2303
+
 Domain - Python Programming
+
 Duration - August to October 2024
+
 Mentor - Neela Santhosh Kumar
 
 Overview of the Project
